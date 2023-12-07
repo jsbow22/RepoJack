@@ -1,0 +1,35 @@
+body {
+	background-color: whitesmoke;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h1{ 
+font-size:34px ;
+padding-left: 60px ;
+padding-right: 60px; }
+h2 { 
+font-weight: normal;
+font-size:14px ;
+padding-left: 60px ;
+padding-right: 60px; }
+
+h3 { 
+color: darkred;
+font-weight: bold;
+font-size:25px ;
+padding-left: 80px ;
+padding-right: 60px; }
+
+h4 { 
+color: darkred;
+font-weight: normal;
+font-size:20px ;
+padding-left: 100px ;
+padding-right: 60px;}
+
+p { 
+padding-left: 60px ;
+padding-right: 60px;
+line-height: 130%;
+font-size:20px; 
+font-family: "Times New Roman", Times, serif;}
